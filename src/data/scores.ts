@@ -64,7 +64,7 @@ export const scores = [
   },
   {
     id: 10,
-    studentId: 3,
+    studentId: 2,
     name: "B田",
     subject: "社会",
     score: 59,
